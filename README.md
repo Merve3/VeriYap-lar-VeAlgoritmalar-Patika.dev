@@ -21,7 +21,7 @@
     
 <h3>4- Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?</h3>
     <p> Average Case: 18 </p>
-<h3> [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.</h3>
+<h3>5- [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.</h3>
     <ol>
          <li>[7,3,5,8,2,9,4,15,6] (n) </li>
          <li> [2,3,5,8,7,9,4,15,6] (n-1) </li>
@@ -29,6 +29,27 @@
          <li> [2,3,4,5,7,9,8,15,6] (n-3) </li>
     </ol>
 
-<h2></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
