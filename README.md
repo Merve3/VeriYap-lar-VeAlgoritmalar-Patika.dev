@@ -10,7 +10,7 @@
 <ul>
  
 <p>2-Big-O gösterimini yazınız.</p>
-    O(n²) 
+    <p>O(n²)</p> 
 
 <p>3-Time Complexity:</p>
 <ul>
